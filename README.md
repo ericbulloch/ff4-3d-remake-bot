@@ -5,7 +5,7 @@ Final Fantasy IV (3D Remake) Bot to help farm tails.
 
 Grinding for the tails in Final Fantasy IV (3D Remake) is tedious. This is easily the least fun part of the game. Automation is very good at this task. Below is a screenshot of the first Pink Tail this script ever got me.
 
-[Pink Tail](images/pink-tail.png)
+![Pink Tail](images/pink-tail.png)
 
 ## Installation
 
